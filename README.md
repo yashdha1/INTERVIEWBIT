@@ -1,15 +1,11 @@
+# InterviewBIT 
+
+**Allows you to instantiate one on one interviews with a standard google docs styled editor and a google docs styled notepad.**
+
 ###  1. Start the Client
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
 ###  2. Start the server
 
-```bash
-cd client
-npm install
-npm run dev
-```
+**TODO:** 
+* Plagarism detection functionality.
+* few interview streams optimisations.
+* interviewer Dashboard and profile 
